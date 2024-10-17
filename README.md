@@ -10,7 +10,10 @@ Move the paddle using A and D. Help the ball break all the bricks.
 
 
 ## Implementation
-
+- color bricks
+- color paddle
+- color ball
+- menu fonts
 Built using Unity 2022.3.45f1
 
 ## References
@@ -27,4 +30,4 @@ Tweening, Screen Shake, Adding a face, Comet trail, Music and Sound, Shaders, et
 
 ## Created by 
 
-Nathan Mishler
+Anna Banks
